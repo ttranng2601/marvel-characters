@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marvel-characters/static/css/main.5a7e4d1d.css",
+    "main.js": "/marvel-characters/static/js/main.191668e3.js",
+    "static/js/787.4f1c71ac.chunk.js": "/marvel-characters/static/js/787.4f1c71ac.chunk.js",
+    "static/media/SEGA.woff": "/marvel-characters/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/marvel-characters/index.html",
+    "main.5a7e4d1d.css.map": "/marvel-characters/static/css/main.5a7e4d1d.css.map",
+    "main.191668e3.js.map": "/marvel-characters/static/js/main.191668e3.js.map",
+    "787.4f1c71ac.chunk.js.map": "/marvel-characters/static/js/787.4f1c71ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7e4d1d.css",
+    "static/js/main.191668e3.js"
+  ]
+}
